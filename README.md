@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YiB-PC&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YiB-PC&repo=AviUtlEasyInstaller)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiB-PC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
